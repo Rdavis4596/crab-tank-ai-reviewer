@@ -1,0 +1,8 @@
+applicant_id,industry,baltimore_city_based,revenue_generating,has_supporting_team,actively_operating,scalable,problem_clarity,solution_strength,market_opportunity,business_model,traction_validation,scalability,baltimore_impact,baltimore_commitment,founder_team_strength,execution_readiness,notes
+APP001,Food & Beverage,no,yes,yes,yes,yes,4,4,4,4,5,4,3,4,4,4,Headquartered in Baltimore County — eligibility flag expected
+APP002,Healthcare,no,yes,yes,yes,yes,5,4,4,4,4,4,4,2,4,3,Headquartered in Prince George's County — eligibility flag expected
+APP003,Technology,yes,yes,yes,yes,yes,5,5,4,4,3,5,4,5,5,4,Strong Baltimore City candidate
+APP004,Education,yes,yes,no,yes,yes,3,3,3,3,2,3,4,4,2,3,Solo founder — eligibility flag expected
+APP005,Food & Beverage,yes,no,yes,yes,yes,4,3,3,3,1,3,3,4,3,3,Not revenue generating — eligibility flag expected
+APP006,Healthcare,yes,yes,yes,yes,yes,4,4,5,4,4,4,5,5,4,4,Strong all-around candidate
+APP007,Technology,yes,yes,yes,yes,no,2,2,2,2,2,1,3,3,2,2,Weak fit — low scores across dimensions
